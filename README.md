@@ -15,27 +15,13 @@ If you have a question or want to discuss the best way to do something with
 Vim, you can use [StackExchange](https://vi.stackexchange.com/)
 or one of the [Maillists](https://www.vim.org/community.php).
 
-## What is Vim?
+## Що таке Вім?
 
-Vim is a greatly improved version of the good old UNIX editor
-[Vi](https://en.wikipedia.org/wiki/Vi_(text_editor)).  Many new
-features have been added: multi-level undo, syntax highlighting, command line
-history, on-line help, spell checking, filename completion, block operations,
-script language, etc.  There is also a Graphical User Interface (GUI)
-available.  Still, Vi compatibility is maintained, those who have Vi "in the
-fingers" will feel at home.
-See [`runtime/doc/vi_diff.txt`](runtime/doc/vi_diff.txt) for differences with
-Vi.
+Vim - це дуже вдосконалена версія старого старого редактора Unix VI. Додано багато нових функцій: багаторівнева скасування, виділення синтаксису, історія командного рядка, онлайн-довідка, перевірка заклинань, комплемент імені файлу, операції блоків, мова прі Т тощо. Також є графічний інтерфейс користувача (GUI). І все -таки підтримується VI Compatibololy, ті, хто має VI "в пальцях", відчують себе як вдома. Див. Runtime/doc/vi_diff.txt для відмінностей з vi.
 
-This editor is very useful for editing programs and other plain text files.
-All commands are given with normal keyboard characters, so those who can type
-with ten fingers can work very fast.  Additionally, function keys can be
-mapped to commands by the user, and the mouse can be used.
+Цей редактор дуже корисний для редагування програм та інших простих текстових файлів. Усі команди даються з звичайними символами клавіатури, тому ті, хто може десять пальців, можуть працювати дуже швидко. Крім того, функціональні клавіші можуть бути відображені на команди користувачем, і миша може використовуватися.
 
-Vim runs under MS-Windows (7, 8, 10, 11), macOS, Haiku, VMS and almost all
-flavours of UNIX.  Porting to other systems should not be very difficult.
-Older versions of Vim run on MS-DOS, MS-Windows 95/98/Me/NT/2000/XP/Vista,
-Amiga DOS, Atari MiNT, BeOS, RISC OS and OS/2.  These are no longer maintained.
+Vim проходить під MS-Windows (7, 8, 10, 11), MacOS, Haiku, VM та майже всі аромати Unix. Перенесення до інших систем шум не дуже складно. Старіші версії VIM Run на MS-DOS, MS-Windows 95/98/ME/NT/2000/XP/Vista, Amiga DOS, Atari Mint, Beos, RISC OS та OS/2. Вони більше не підтримуються.
 
 For Vim9 script see [README_VIM9](README_VIM9.md).
 
